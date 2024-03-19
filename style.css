@@ -1,0 +1,29 @@
+body{
+    background: url(./gn.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.box{
+   background-color: rgb(207, 243, 25);
+   height:400px;
+   margin: auto;
+   font-size: 20px;
+   text-align: center;
+   width: 500px;
+   border-radius: 20px 20px 20px 20px;
+}
+#num{
+    height:30px;
+    width: 200px;
+}
+
+#subb{
+    margin-top: 30px;
+}
+#line{
+    border-style: solid;
+    background-color: azure;
+    width: 400px;
+    margin: auto;
+    margin-top: 10px;
+}
